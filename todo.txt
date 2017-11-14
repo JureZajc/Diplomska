@@ -1,0 +1,8 @@
+- pravilni odgovor, naj bo kar skopiran odgovor en od vprašanj, da bo lažje pol primerjat (checked)
+- odstranit povezavo ID_questions iz answers
+- prenest ID_question iz quiz.php na test2.php (ne vem zakaj ne dela)
+- ugotovit zakaj ne dela primerjanje rezultatov (zato ker neki èudnega prenese naprej, treba napisat da doda se space na koncu pravilnega odgovora)
+- pogledat zakaj footer pr quiz.php ni pravilen (checked)
+- naredit tak da ne more poslat 2 odgovorov naprej (checked)
+- naredit tak da prikaže samo doloèeno število vprašanj (checked)
+- ko prenesemo ID naprej morm še pol naredit en SELECT stavek kjer dam WHERE = ID in pol èekiram tist pravi odgovor
