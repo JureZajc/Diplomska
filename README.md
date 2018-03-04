@@ -6,7 +6,7 @@ With this quiz, we can register, add quizes, add questions, edit quizes and ques
 
 When first user register to the quiz, it automactly becomes admin, when second user register, it becomes normal user. 
 
-If you wan't to use quiz, download all the files, and change the connection type in database.php, so it will connect to your own datastorage.
+If you wan't to use quiz, download all the files, and change the connection type in database.php, so it will connect to your own datastorage. To use correct sql file choose file script3.sql
 
 Quiz is in slovenian language, but i'm planning to translate it to english
 
